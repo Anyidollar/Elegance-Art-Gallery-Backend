@@ -1,0 +1,27 @@
+import express from "express";
+import { getAllArtists, updateArtist, changeArtistPassword, uploadImage} from "../controller/artistController";
+import upload from "../lib/helper/multer";
+import { getAllOrders, getOneOrder } from "../controller/artistController";
+import { artistAuth } from "../middlewares/artistAuth";
+
+
+const router = express.Router();
+
+router.get("/get-artists", getAllArtists);
+router.patch("/update/:token", updateArtist);
+
+// Change Password
+router.patch("/change-password/:token", changeArtistPassword);
+
+
+// upload image
+router.post("/image", upload.single('image'), uploadImage)
+
+
+
+router.get('/get-one-order/:id', getOneOrder)
+
+router.get('/get-orders/:token', artistAuth, getAllOrders)
+
+
+export default router;

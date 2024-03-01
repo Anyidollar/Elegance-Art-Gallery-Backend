@@ -1,0 +1,170 @@
+[
+	{
+		"artName": "The Angel",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Nature",
+		"artClass": "Auction",
+		"price": 4000,
+		"imageUrl": "https://www.theartbox.com.au/wp-content/uploads/2020/12/nature-painting-feat-1200x663.png"
+	},
+	{
+		"artName": "A beautiful view",
+		"description": "Work on canvas with acrylics, whenever I see this kind of natural things I feel like to paint them on canvas to save them forever through my paintings. I Hope this natural view will refresh the body and soul of viewers.",
+		"category": "Nature",
+		"artClass": "Auction",
+		"price": 32000,
+		"imageUrl": "https://images.saatchiart.com/saatchi/1811284/art/8535540/7599429-HSC00002-7.jpg"
+	},
+	{
+		"artName": "Sunset",
+		"description": "A keen eye for effects of light distinguishes the landscape paintings of Aert van der Neer. Here, the artist turned his attention to the sun setting over a river, with brilliantly illuminated pink and yellow clouds casting their reflections onto the water below",
+		"category": "Landscape",
+		"artClass": "Sale",
+		"price": 14000,
+		"imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437191/795827/main-image"
+	},
+	{
+		"artName": "Landscape with Hunters",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Oil on Canvas",
+		"artClass": "Sale",
+		"price": 40000,
+		"imageUrl": "https://cdn2.oceansbridge.com/2017/08/13130619/Landscape-with-Hunters-1640s-Uden-Lucas-van-oil-painting-1-800x489.jpg"
+	},
+	{
+		"artName": "The African Sphere",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"artClass": "Sale",
+		"imageUrl": "https://www.theartbox.com.au/wp-content/uploads/2020/12/nature-painting-feat-1200x663.png",
+		"category": "Nature",
+		"price": 4000
+	},
+	{
+		"artName": "Marilyn Monroe",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"artClass": "Auction",
+		"imageUrl": "https://storage.googleapis.com/pod_public/1300/150711.jpg",
+		"category": "Pen and Ink",
+		"price": 12000
+	},
+	{
+		"artName": "Love in the air",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"artClass": "Sale",
+		"imageUrl": "https://hogfurniture.com.ng/cdn/shop/articles/239741908.jpg?v=1655311992",
+		"category": "Pen and Ink",
+		"price": 22000
+	},
+	{
+		"artName": "Most wanted",
+		"description": "Where to start with art, Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"artClass": "Auction",
+		"imageUrl": "https://resources.stuff.co.nz/content/dam/images/1/u/u/u/f/c/image.related.StuffLandscapeThreeByTwo.1464x976.1uz6y4.png/1558037341511.jpg",
+		"category": "Pen and Ink",
+		"price": 44400
+	},
+	{
+		"artName": "The Dream",
+		"description": "Where to start with art",
+		"artClass": "Sale",
+		"imageUrl": "https://storage.googleapis.com/pod_public/1300/151757.jpg",
+		"category": "Pen and Ink",
+		"price": 28500
+	},
+	{
+		"artName": "Human Nature",
+		"description": "Showing the human as an integral part of nature is a recurring theme in Thompson’s art. My paintings are symbolic interpretations of humans as part of nature. We do not exist on the earth without the earth. Our health and the health of our environment are one thing.",
+		"category": "Nature",
+		"artClass": "Sale",
+		"price": 6000,
+		"imageUrl": "https://thompsonartstudio.com/wp-content/uploads/2011/02/Thompson_EdgeForest-1024x502.jpg"
+	},
+	{
+		"artName": "Summer Fields",
+		"description": "Summer scene of landscape, with green relaxing colour.",
+		"category": "Nature",
+		"artClass": "Sale",
+		"price": 11000,
+		"imageUrl": "https://images.saatchiart.com/saatchi/1779024/art/9340257/8403365-ZMFQKIHQ-6.jpg"
+	},
+	{
+		"artName": "Royalty",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Oil on Canvas",
+		"artClass": "Auction",
+		"price": 18000,
+		"imageUrl": "https://media.istockphoto.com/id/543465020/photo/oil-painting-of-eiffel-tower-france-art-work.jpg?s=612x612&w=0&k=20&c=tVUeweIM9PRPzM8WTyzqLH26SwVjQqDZaqzXEIq8HMs="
+	},
+	{
+		"artName": "Most Famous",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Oil on Canvas",
+		"artClass": "Auction",
+		"price": 12500,
+		"imageUrl": "https://euc-picturator-download.s3.amazonaws.com/media/web_images/cd/blog/what-are-canvas-paintings-meta.jpg"
+	},
+	{
+		"artName": "Landsape Art",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Landscape",
+		"artClass": "Auction",
+		"price": 40000,
+		"imageUrl": ""
+	},
+	{
+		"artName": "Riverside Gums",
+		"description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+		"category": "Landscape",
+		"artClass": "Auction",
+		"price": 23000,
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0625/3818/6989/files/4_204422b9-59b7-496d-8b79-6f8c6b6dc25c.jpg?v=1677310689"
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Landscape",
+		"artClass": "Sale",
+		"price": 13000,
+		"imageUrl": ""
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Landscape",
+		"artClass": "Sale",
+		"price": 9500,
+		"imageUrl": ""
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Portrait",
+		"artClass": "Sale",
+		"price": 15500,
+		"imageUrl": ""
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Portrait",
+		"artClass": "Sale",
+		"price": 4500,
+		"imageUrl": ""
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Portrait",
+		"artClass": "Auction",
+		"price": 7000,
+		"imageUrl": ""
+	},
+	{
+		"artName": "",
+		"description": "",
+		"category": "Digital Paint",
+		"artClass": "Sale",
+		"price": 2000,
+		"imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/1f3e8883010357.5d2f193115463.jpg"
+	}
+]
